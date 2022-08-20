@@ -3,4 +3,3 @@
 	'Scandiweb_Scandiweb_Test',
 	__DIR__
 );
-?>
